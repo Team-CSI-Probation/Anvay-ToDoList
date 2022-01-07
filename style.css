@@ -11,6 +11,9 @@ body{
     background: linear-gradient(to bottom, black 0%, red 100%);
     
 }
+.projectTitle h1{
+    text-align: center;
+}
 .wrapper{
     margin: 120px auto;
     max-width: 400px;
